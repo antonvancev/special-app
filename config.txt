@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Смарт-Экспресс — официальный сайт</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='css/main.css'>
+    <script src='js/jquery-3.6.0.min.js'></script>
+    <script src='js/main.js'></script>
+</head>
+<body>
+    <header>
+        <nav>
+        
+            <a href="#portfolio">Портфолио</a>
+
+			
+        </nav>
+        <div>
+            <a href="tel:+7638889595">+7 963 888-95-95</a>	
+        </div>
+    </header>
+</body>
+</html>
